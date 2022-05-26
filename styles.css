@@ -1,0 +1,44 @@
+body {
+    background-color: paleturquoise;
+    color: darkslategrey;
+    font-size: 0.8rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    width: 180px;
+    height: 180px;
+    
+}
+
+.border-red {
+    border: 1px solid red;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    width: 550px;
+    margin: auto;
+    padding: 20px;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+}
+.image {
+    padding: 20px;
+}
+.personalInfo {
+    text-align: center;
+    padding: 10px;
+}
+
+.top-head {
+    text-align: center;
+    margin-bottom: 50px;
+    color:brown;
+}
+
+h2, p {
+    font-weight: 300;
+    
+}
